@@ -1,0 +1,166 @@
+body {
+  background-color:#e3d9c5;
+  color:black;
+  font-family: 'Alegreya', 'serif';
+   font: normal 16px Alegreya;
+  line-height:1.0em;
+  margin:0;
+  }
+
+a:hover a:focus{
+  text-decoration: none;
+}
+
+a:active{
+  color: black;
+}
+
+a:visited{
+  color:  #fff;
+}
+
+.container{
+  width:90%;
+  margin: 20px;
+  background-color: #e3d9c5;
+  font-style: normal;
+  font-family: 'Alegreya', 'serif';
+    font-weight: 400;
+    text-align: left;
+    color:  black;
+}
+
+.container-1{
+  width: 100%;
+  align: left;
+  align-content: right;
+  background-color: #e3d9c5;
+  color: #0b0905;
+}
+
+.button {
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: none;
+  font-family: Alegreya;
+  background-color: #0b0905;
+  color: #f0ebe0;
+  text-decoration: none;
+}
+
+.button:hover{
+  color: red;
+}
+
+.box-1{
+  width: 90%;
+  padding: 5px;
+  border: 10px;
+  margin: auto;
+  text-align: center;
+  padding:20px;
+  font-size: 500;
+  font-style: regular;
+  font-family: 'Alegreya', 'serif';
+  border-width:'inherit';
+  background-color:#e3d9c5;
+}
+
+.box-1 h1{
+  font-family: Times New Roman;
+  letter-spacing: 0,2em;
+}
+
+.box-2{
+  width: 80%;
+  padding: 5px;
+  border: 10px;
+  margin: auto;
+ text-align: center;
+  padding:20px;
+  font-size: 500;
+  font-style: regular;
+  font-family: 'Alegreya', 'serif';
+  border-width:'inherit';
+  background-color:#e3d9c5;
+}
+
+.box-3{
+  width: 80%;
+  padding: 5px;
+  border: 10px;
+  margin: auto;
+  text-align: center;
+  padding:20px;
+  font-size: 500;
+  font-style: regular;
+  font-family: 'Alegreya', 'serif';
+  border-width:'inherit';
+  background-color:#e3d9c5;
+}
+
+.categories li{
+  width: 50%;
+  margin: auto;
+  padding: 5 px;
+  list-style:none ;
+  color: black;
+}
+
+.categories-2 ul{
+  width: 50%;
+  margin: auto;
+  padding: 5px;
+  list-style:none ;
+}
+
+.box-3 table{
+  padding-bottom: 8px;
+  border-bottom: dotted 1 px #333;
+}
+
+.blockquote{
+  width: 25%;
+  align: right;
+  margin:auto;
+  padding: 5px;
+   background-color: #333;
+  color:#fff;
+  border: 5px, 'black', 'solid';
+  border-radius: 5px;
+  font-family: 'Alegreya', 'serif';
+  font-size: 200;
+  font-style: 'thin', 'italic';
+  text-align: right;
+}
+
+.h1{
+  font-style: 'bold','700' ;
+  color: "black";
+}
+
+.input, .texture, .select, .button {
+  font-family: system-ui;
+}
+
+.my-form{
+  padding: 20px;
+}
+
+.my-form-group{
+  padding-bottom: 15px;
+}
+
+.my-form label{
+  display:  block;
+}
+
+.my-form input[type="text"] .my-form textarea{
+  padding: 8px;
+  width: 100%;
+}
+
+.block{
+  float: left;
+  width: 33.3%;
+}
